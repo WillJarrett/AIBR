@@ -1,0 +1,209 @@
+Condensed - Casting
+
+CNE Engineering and SAS - Casting/Aerospace
+Industry - Aerospace
+App-Family - End Use Parts
+Materials - TPU, PLX, Hi-Temp CF
+Printers - One and Pro
+- Printer used - BigRep One & Studio
+- Materials Used - Hi-Temp CF, TPU and PLX
+
+- **Applications of Large-Format 3D Printing:**
+  - Simplifies prototyping, production tooling, and manufacturing processes.
+  - Reduces production costs and time-to-market.
+  - Enables sustainable practices for complete control throughout a product's life cycle.
+
+- **Case Study (June 1, 2022): 3D Printing Engine Covers for Aircraft Maintenance:**
+  - Grounding of 62% of passenger planes during the COVID-19 pandemic.
+  - Challenges faced by airlines, including lack of engine covers for grounded planes.
+  - SAS's initial use of plastic wrap and tape as a short-term solution.
+  - Need for a longer-term, cost-effective solution as the pandemic extended.
+
+- **Supply Chain Challenges:**
+  - Global supply chain disruptions due to COVID-19.
+  - Limited ground-service equipment availability for airlines.
+  - SAS focuses on shortening the supply chain using locally available resources.
+
+- **3D Printing Solution:**
+  - SAS explores 3D printing as a solution for supply chain issues.
+  - Benefits align with SAS's needs: fast production, design flexibility, low volume, low cost, minimal waste.
+  - Local supplier, CNE Engineering, utilizes BigRep large-format 3D printers to produce custom tooling and equipment.
+
+- **Manufacturing Process:**
+  - CNE designs and engineers molds using a combination of printed materials.
+  - Material chosen: castable urethane for extreme outdoor temperatures, chemical and UV resistance, soft yet robust.
+  - BigRep ONE 3D printer accommodates large mold parts, ensuring ease of casting and mold release.
+  - Rapid production; SAS receives initial order within two months, reducing engine maintenance time significantly.
+  - Molds produced using BigRep's STUDIO for smaller, detailed features.
+
+- **Benefits of BigRep 3D Printing Implementation:**
+  - **Time Saved:**
+    - Rapid production and delivery; initial order fulfilled within two months.
+    - Reduction in engine maintenance time from hours to minutes.
+
+  - **Money Saved:**
+    - Cost-effective local production in response to supply chain challenges.
+    - Lower production costs, aligning with SAS's need for a more cost-effective operation.
+
+- **Future Opportunities:**
+  - Large-format 3D printing presents endless opportunities for designing tooling and equipment for various industries.
+  - Potential applications include tool holders, carts, jigs, templates, and other hangar equipment.
+
+- **Why Choose Large Format FDM Printer:**
+  - **Material Flexibility:**
+    - Range of material options available for testing and experimenting with final-finish materials.
+    - Castable urethane chosen for specific requirements.
+Materials used in plugs - TPU,PLX, Hi-Temp
+
+  - **Build Volume:**
+    - The BigRep ONE's large build volume (1 m³) meets dimensions of jet engine exhaust with single-piece prints.
+    - Facilitates large-scale production with unique parts or features.
+
+  - **Cost-Efficiency:**
+    - Large-format 3D printing allows for low-cost, local production.
+    - Aligns with the need for a cost-effective and efficient operation.
+
+  - **Versatility:**
+    - Suited for various applications including molds, end-use parts, jigs, and fixtures.
+
+- **Conclusion:**
+  - Large-format 3D printing, facilitated by BigRep's technology, emerges as an innovative and efficient manufacturing solution.
+  - Potential for widespread application in various industries beyond aviation.
+
+Airbus 
+Inudstry - Aeropsace
+App-Family - End Use Parts/Molds/Protoype
+Materials - TPU
+Printers - One and Pro
+- **Challenges in Traditional Transportation:**
+  - Delicate equipment maintenance and transportation require detailed consideration and significant investment.
+  - High costs in logistical preparation, particularly in industries like aviation, are due to inefficiencies in manufacturing "investment shipping cases."
+  - These cases are specialty, individually manufactured, and certified for secure transportation of sensitive equipment.
+
+- **Complications in Acquiring Cases:**
+  - Businesses must plan for safe transportation and anticipate the downtime of advanced tools, making predictions challenging.
+  - Limited suppliers and manual processes lead to wait lists for cases exceeding two years, causing significant lead times and complications.
+
+- **Airbus and NOWLAB Collaboration:**
+  - Airbus and Flugzeug Union Süd turned to additive manufacturing and digital design for investment shipping cases.
+  - A patent application submitted for an additive process using BigRep's large-format 3D printers and TPU filament, a shock-absorbent material.
+
+- **Advantages of Additive Manufacturing:**
+  - Traditional case manufacturing involves highly manual processes, demanding specialists, and long lead times of up to nine months.
+  - Airbus and NOWLAB's additive solution significantly reduces production steps from eight to four, allowing for overnight production and eliminating manual labor.
+  - Cost reduction and attractive solutions for businesses facing current problems.
+
+- **Data-Driven Design with TPU Filament:**
+  - Collaboration with NOWLAB involves creating a design template using data-driven processes.
+  - Utilization of BigRep's TPU filament with versatile material properties for shock absorption.
+  - Fused Filament Fabrication (FFF) patterns and TPU's dynamic properties replace traditional foam cushioning.
+
+- **Logistical Challenges and Additive Benefits:**
+  - Difficulty in acquiring investment shipping cases poses logistical challenges for businesses.
+  - Collaboration with NOWLAB aims to create an autonomous, on-demand manufacturing process, reducing production time to about 60 hours.
+  - Plans to certify the manufacturing process instead of individual cases and roll out BigRep 3D printers in over 20 locations for local on-demand production.
+
+- **Testing and Certification Process:**
+  - Testing to qualify the design for certifications is underway, with TPU cases successfully drop tested and meeting high-temperature requirements.
+
+- **Future Innovations and Environmental Impact:**
+  - Continued innovation with closed-loop manufacturing to ease logistical challenges.
+  - Local and closed-loop manufacturing may reduce excessive storage requirements and limit raw material usage.
+  - A revolutionary shift in investment shipping cases, addressing economic and environmental burdens.
+
+- **Conclusion:**
+  - Airbus and BigRep's collaboration transforms the once laborious industry into an efficient and accessible service.
+  - Certification of the production process may optimize manufacturing and procurement, offering a modern solution for businesses with complex logistical needs.
+
+- **Contact Information:**
+  - BigRep's contact details for those interested in their large-format 3D printers and additive manufacturing solutions.
+
+Polayero
+Industry - Aerospace, Mockups, Education 
+App-Family - 
+Materials - PLA, PLX
+Printers - One 
+**Summary: POLYAERO's Mixed Reality Aerospace Programs with BigRep's Large-Format 3D Printers**
+
+- **Introduction:**
+  - Aix-Marseille Université utilizes BigRep's large-format additive manufacturing systems for unique aerospace degree programs.
+  - Combining large-format 3D printing and virtual reality enhances aerospace engineering and maintenance education.
+
+- **Background on POLYAERO:**
+  - Xavier Bonnardel, founder of POLYAERO, established an aeronautical training school in Gap Tallard airfield.
+  - Developed accredited aerospace engineering programs in partnership with Airbus.
+  - POLYAERO is the first school in Europe with a part 66 C regulation-compliant bachelor program in aircraft maintenance.
+
+- **Technology Integration:**
+  - POLYAERO integrates modern technologies like virtual reality (VR) and large-format 3D printing into their programs.
+  - Close partnerships with aerospace companies like Airbus, Dassault, and Safran keep the program aligned with industry innovations.
+
+- **Virtual Reality Assisted Learning:**
+  - Initial attempts at VR-assisted learning lacked realism and hands-on experience.
+  - Airbus collaborates with POLYAERO to enhance VR technology, making it more realistic by integrating physics and transforming it into mixed reality.
+
+- **Role of BigRep's Large-Format 3D Printers:**
+  - Neofab, BigRep's French reseller, assists POLYAERO in acquiring a large-format 3D printer.
+  - BigRep's additive manufacturing complements VR, introducing mixed reality with 3D-printed mockup parts.
+  - Parts printed on BigRep's printer save time, match real dimensions, and provide sturdiness for better training.
+
+- **Benefits of Mixed Reality Program:**
+  - Students gain practical engineering experience with 3D printing technology and CAD software.
+  - Virtual modeling using 3D scanning adds to the virtual aircraft database.
+  - Hands-on prototyping and wind tunnel testing using BigRep's 3D printer allow students to design, print, and test their own part prototypes.
+
+- **Applications of 3D Printing in Aerospace Education:**
+  - 3D printing in aerospace prototyping reduces costs and accelerates the innovation-to-market process.
+  - Airbus and POLYAERO utilize BigRep's additive manufacturing systems for creating logistical aids, such as shipping cases, cost-effectively.
+
+- **Conclusion:**
+  - BigRep's large-format 3D printing enriches POLYAERO's mixed reality programs, providing realistic and flexible solutions.
+  - Positive outcomes lead to the creation of a Master of Aerospace Engineering program.
+  - POLYAERO's innovative approach showcases the efficiency and reinventions possible with large-format 3D printing in advanced industries.
+SFM Technology
+Industry - Aersopace
+App-Family - End Use Parts/Molds/Protoype
+Materials - Hi-Temp CF
+Printers - Pro
+**Title: 3D Printing Takes Flight in the Aerospace Industry: The Case of Rotor Blade Restraint Cradles**
+
+**Introduction:**
+Rough seas present challenges for helicopter operations on ships, especially during embarkation and storage. The need for stable rotor blade restraint cradles led aerospace giant Leonardo to seek a solution, turning to SFM Technology's AeroAdditive division. This resulted in the creation of the first 3D-printed main rotor blade restraint cradle, demonstrating the potential of additive manufacturing in the aerospace industry.
+
+**Challenges in Helicopter Embarkation:**
+1. Helicopters fold their blades on ships, but wind at sea can cause flapping.
+2. Stabilization is crucial for safe embarkation and storage on ships.
+
+**Collaboration with SFM Technology:**
+1. Leonardo, tasked by the Ministry of Defence for Royal Navy helicopters, faced issues with pre-existing blade restraint cradles.
+2. SFM Technology's AeroAdditive division was approached for an innovative solution.
+3. The collaboration resulted in the creation of the first 3D-printed main rotor blade restraint cradle.
+
+**Adopting Additive Manufacturing:**
+1. Speed was crucial, leading to the selection of the BigRep PRO as a production 3D printer.
+2. Additive manufacturing proved more versatile and efficient than traditional methods.
+3. Hi-Temp CF, a carbon fiber reinforced material, offered lightweight yet strong components. Around 90cm long - printed in one piece.
+4. Stress-testing showed 3D-printed parts outperforming original non-printed parts.
+
+**Benefits of 3D Printing:**
+1. Improved strength and durability of components.
+2. Faster production compared to traditional methods.
+3. Cost-effectiveness with minimal adjustments needed.
+4. Utilization of Hi-Temp CF for weather-resistant and robust blade restraint cradles.
+
+**Manufacturing Process:**
+1. 30 cradles (60 halves) produced since January, showcasing efficiency.
+2. Material selection crucial, with Hi-Temp CF identified as the optimal choice.
+3. Post-printing processes involve support material removal, surface smoothing, and hardware installation.
+
+**Future Implications in Aerospace:**
+1. Mr. Gary Wilson emphasizes the positive impact of 3D printing in the aerospace industry.
+2. Overcoming initial skepticism, 3D printing is demonstrated as strong, repeatable, and quality-focused.
+3. The success of rotor blade restraint cradles paves the way for increased adoption of additive manufacturing in aerospace.
+
+**Conclusion:**
+The collaboration between Leonardo and SFM Technology exemplifies the successful application of 3D printing in addressing challenges within the aerospace industry. The production of rotor blade restraint cradles showcases the efficiency, strength, and versatility offered by additive manufacturing, marking a significant step toward its broader acceptance in aerospace engineering. As designers become more acquainted with the benefits, additive manufacturing is poised to play an increasingly integral role in shaping the future of aerospace technology.
+
+
+
+

@@ -1,0 +1,505 @@
+Condensed
+Kawasaki
+Indsutry - Auto, Aerospace
+App-Family - Jigs and fixture, Mockups Prototype, Repair, 
+Materials - PLA, PLX, PRO-HT, TPU
+Printers Used - One 
+
+- **Aerospace Production Optimization:**
+  - Overcame challenges in aerospace manufacturing with stringent standards and constant need for new parts.
+  - Swift production of essential tools, such as mockup parts for Boeing 777X cargo doors, using BigRep 3D printer.
+  - Reduced risk of bottlenecks in production and streamlined the approval processes.
+  - Time saved: Designed and 3D printed a mockup part for Boeing 777X cargo doors within five hours.
+
+- **Tooling Modification and Replacement:**
+  - Utilized 3D printing to quickly modify and replace imperfect parts, avoiding disruptions in planned production.
+  - Prevented lengthy communication with suppliers and potential delays through the flexibility of 3D printing.
+  - Time saved: Enabled the Chief Engineer to 3D print and swap out an improved clamping device part the next day for a 3 laser printer.
+
+- **Enhanced Factory Equipment and Processes:**
+  - Leveraged 3D-printed fixtures in the assembly line to ensure proper alignment of bushings without scratching consumer-bound products.
+  - Iterative design process with 3D printing led to significant time and cost savings, exemplified by the three revisions made to perfect a fixture.
+  - Time saved: Countless hours of machine time through efficient fixture design iterations and avoidance of individual manual labour.
+
+- **Material Versatility:**
+  - Used a variety of BigRep's industrial filaments, including cost-effective PLA for fixtures and light tooling, PRO HT for higher-temperature applications, and TPU for shock-absorbent qualities.
+
+- **Operational Efficiency and Logistics:**
+  - Implemented a streamlined logistics system with a dedicated 3D printer operator and a spreadsheet for managing print requests.
+  - Successfully managed over 100 prints in just six months, showcasing operational efficiency and a rapid return on investment.
+  - Time saved: Operational efficiency resulted in the ability to print over 100 parts in six months, exceeding initial job estimates.
+- **Cost Savings and Return on Investment:**
+  - Reduced tooling expenses by an impressive 85%, demonstrating the cost-effectiveness of 3D printing.
+  - Time saved: Achieved a return on investment in about six months, exceeding initial estimates.
+
+- **Attracting Talent and Staff Engagement:**
+  - Used the large-format additive manufacturing system as an attractive showcase of advanced technologies to attract new talent.
+  - Contributed to staff engagement and retention by showcasing the facility's commitment to cutting-edge manufacturing methods.
+
+- **Cost Savings and Price Difference (Additional Points):**
+  - Kawasaki experienced significant savings, with an eight-to-ten times price difference compared to previous outsourcing expenses.
+  - Example: Outsourced collets for the CNC tube bending process cost as much as $500, while the in-house 3D printed equivalents cost only $17, resulting in substantial financial benefits.
+
+- **Efficiencies in Factory Assembly (Additional Points):**
+  - Utilized BigRep 3D printer for factory assembly pieces, specifically in the CNC tube bending process.
+  - Previously outsourced the bender's profile collets but shifted to in-house production with BigRep, leading to streamlined workflows and cost savings.
+  - Time saved: Reduced lead times and financial burden associated with external manufacturing.
+
+- **Cost-Effective PLA Material (Additional Points):**
+  - Replaced heavy steel tooling with 3D printed PLA material from BigRep, resulting in significant cost reductions.
+  - Set example: 3D printed PLA collets, costing $17 each, provided reliable performance for approximately five months, offering cost-effective alternatives to steel clamps.
+  - Material choice: Utilized PLA for affordability and durability under specific production conditions.
+
+- **Tube Bending Area Cost Savings (Additional Points):**
+  - Modernized workflows with large-format additive manufacturing, particularly in tube bending.
+  - Estimated around 85% savings in expected outsourcing costs for tube bending processes.
+  - Example: 3D printed tube bending profile collet cost $17 and took 2 hours to print, offering a cost-effective and timely solution compared to outsourcing.
+
+- **Application in Aerospace Projects (Additional Points):**
+  - Applied BigRep 3D printer in aerospace projects, particularly in the production of Boeing 777X cargo doors.
+  - Addressed stringent approval processes by quickly designing and 3D printing mockup parts, avoiding potential bottlenecks in production.
+  - Time saved: Designed and 3D printed a mockup part within five hours, showcasing rapid response capabilities.
+
+- **Avoidance of Production Delays (Additional Points):**
+  - Applied additive solutions with BigRep printer to avoid production delays in various scenarios.
+  - Example: Used additive manufacturing to create fixtures for the alignment of bushings, saving machine time, material costs, and lead times.
+  - Achieved multiple successful applications, showcasing the versatility of 3D printing in overcoming unforeseen production challenges.
+
+These combined bullet points provide a comprehensive overview of Kawasaki's strategic use of 3D printing, emphasizing efficiency, cost savings, and successful applications across different manufacturing processes within their facility.
+Ford
+Indsutry - Auto, car production
+App-Family - End use parts, jigs and fixtures 
+Materials - PLA, PLX, Hi-Temp CF, BV0H
+Printers Used - One, Pro
+
+- **Ford's Longstanding Experience in 3D Printing:**
+  - Ford Motor Company, a major player in the automotive industry, adopted 3D printing technology in 1986, purchasing the third-ever SLA 3D printer.
+  - Their research facility, Ford Research & Advanced Engineering Europe, dedicated since 1995 to advancing vehicles and manufacturing with additive technology, reflects Ford's commitment to innovation.
+
+- **Recent Focus on 3D Printing:**
+  - In recent years, Ford has intensified its exploration and investment in 3D printing, recognizing it as a significant manufacturing technique.
+  - Regular use of various 3D printing processes, including SLA, SLS, FFF, and L-PBF, with a continuous acquisition of new systems to meet growing needs.
+  - In 2017, Ford added the BigRep ONE to its FFF 3D printing capabilities, enhancing their ability to create large-format prints.
+
+- **Applications of BigRep ONE in Ford's Operations:**
+  - Primary use in creating jigs, fixtures, tool tryout-parts, and manufacturing equipment for automotive manufacturing and research.
+  - Ford values the variety of materials available for 3D printing with the BigRep ONE, including PLA, PA6/66, and TPU.
+
+- **Fixture Manufacturing Transformation:**
+  - Ford experienced a significant transformation in welding fixture manufacturing after adopting BigRep ONE.
+  - Traditional process involved manual machining of metal, leading to extended lead times and high costs.
+  - BigRep ONE's additive manufacturing process allowed hands-free printing, reducing costs, and enabling overnight printing for next-day use.
+  - Efficient process freed up skilled workers for more demanding tasks, showcasing operational efficiency.
+  - Closed-loop supply practices implemented, recycling used tooling for environmental sustainability.
+
+- **Efficient Jig Creation:**
+  - 3D printing with BigRep ONE streamlined the creation of reusable jigs, providing accurate component fitting.
+  - Traditional jigs required many iterations with an 8-10-week lead time; 3D printing reduced lead times to 2-3 days, resulting in a 94% decrease.
+  - Hand jigs, used for alignment and ergonomics, demonstrated additional applications for Ford's large-format 3D printer.
+
+- **Cost-Effective Prototyping and Mockups:**
+  - Ford successfully utilized 3D printing for rapid prototyping, avoiding prohibitive costs of purchasing prototypes.
+  - Engine alternator prototyping and front-end module design benefited from 3D printed mockups, accelerating iteration cycles without expensive tool changes.
+  - Time-sensitive part testing also proved effective with 3D printed mockups.
+
+- **Successful ROI and Expansion:**
+  - Ford experienced a complete return on investment with the first application of BigRep ONE.
+  - Positive results led to the acquisition of another BigRep machine, the BigRep PRO, showcasing Ford's confidence in the technology.
+  - Partnership with BigRep's Germany-based team enhances collaboration, allowing Ford early access to specific tools for operational streamlining.
+
+- **Investment in BigRep PRO:**
+  - Ford invested in the BigRep PRO, a newer machine offering a large build envelope with advanced features.
+  - Designed for creating functional prototypes, composite tooling, and end-use products, aligning with the needs of the automotive industry.
+
+- **Continuous Advancements and Global Presence:**
+  - Ford's continuous commitment to advancing operations through 3D printing is evident in the machine running 24/7.
+  - The global presence of Ford, with a focus on collaboration and innovation, positions them as a major adopter of additive manufacturing technology.
+
+- **Redefining Additive Manufacturing:**
+  - BigRep's machines are seen as integral to redefining additive manufacturing, offering large-format capabilities and advanced features.
+  - Locations in Europe, North America, and the Asia-Pacific region highlight the global impact of additive manufacturing in Ford's operations.
+
+These points showcase Ford's extensive journey in 3D printing, the transformative impact of BigRep ONE, and the diversified applications leading to operational efficiency and cost savings.
+
+Paravan
+Indsutry - Auto, Custom/specialized vehicle, car customization 
+App-Family - End use parts, prototype, molding 
+Materials - Pro-HT
+Printers Used - One 
+- **Introduction to Paravan GmbH:**
+  - A German company specializing in autonomous and independent drive systems for vehicles.
+  - A leading international provider of vehicle adaptations for people with disabilities or special needs since 2005.
+  - Focus on individualized mobility solutions, including wheelchair access, rotating seating, and other accessibility features.
+
+- **Shift Towards Industry 4.0 and Customization:**
+  - Paravan embraces Industry 4.0 by prioritizing greater customization and the creation of bespoke products.
+  - Specializes in personalized vehicle components catering to individual medical needs, ensuring mobile freedom.
+
+- **Advantages of 3D Printing Over Traditional Methods:**
+  - Paravan utilizes a BigRep ONE 3D printer alongside traditional machinery.
+  - Achieves a 75% reduction in production costs and almost 50% faster prototype production with 3D printing.
+  - Mario Kütt, Head of Mechanical Construction at Paravan, emphasizes the ability to print complex components quickly and cost-effectively.
+
+- **Revolutionary Steering Mechanism Prototype:**
+  - Paravan's BigRep ONE is instrumental in producing prototypes for safety-related industrial applications.
+  - Introduction of a revolutionary electronic steering wheel, showcasing the innovative use of 3D printing for unique vehicle features.
+  - Quick and efficient design iteration, allowing engineers to create and install customized components rapidly.
+
+- **Rapid Large-Scale Prototyping for Custom-Fitting:**
+  - Clean CAD files enable engineers to design functional parts specific to users' needs.
+  - Rapid prototyping within one day facilitates cost-efficient and speedy custom-fitting of vehicles.
+  - Paravan produces at least two prototypes per week using the BigRep ONE, allowing continuous creation of new parts.
+
+- **Custom Grips and Personalization:**
+  - Paravan addresses specific customer needs, developing custom grips for individuals with difficulty grasping controls.
+  - Process involves taking a mold of the individual's hand grip, creating a custom grip with a flexible, easily malleable material.
+  - Use of 3D scanning technology to convert scans into CAD files for precise prototyping on the BigRep ONE.
+
+- **Material Selection and Post-Processing:**
+  - Paravan currently uses PRO HT filament for production due to its high-temperature resistance, crucial for vehicle applications.
+  - Post-processing involves lightly sanding and priming the 3D-printed parts for a smooth finish.
+  - Emphasis on the importance of material properties, especially in the context of vehicle usage, particularly during summer.
+
+- **Supporting Innovation in Autonomous Driving:**
+  - BigRep's 3D printing technology supports Paravan's exploration of autonomous driving potential.
+  - Paravan continues to innovate in the automotive industry, staying at the forefront of technological advancements.
+
+- **Conclusion and Future Prospects:**
+  - Mario Kütt highlights the significant speed advantage of producing prototypes with the BigRep ONE compared to traditional methods.
+  - Paravan's continuous innovation, coupled with 3D printing capabilities, enables them to provide life-changing products and services.
+  - The collaboration between Paravan and BigRep demonstrates the transformative impact of 3D printing in automotive customization.
+
+This story outlines Paravan GmbH's adoption of 3D printing, specifically with the BigRep ONE, showcasing how this technology revolutionizes their vehicle customization processes, reduces costs, and accelerates prototyping for innovative features.
+
+BMW Group
+Indsutry - Auto 
+App-Family - End use parts, prototypes 
+Materials - 
+Printers Used - One 
+- **Introduction:**
+  - BMW Group addresses the challenge of employee mobility within its plants and logistics centers.
+  - Introduction of the Personal Mover Concept, an electric one-person means of transport designed by BMW Group Research and Innovation Center in Munich.
+
+- **Motivation Behind the Personal Mover Concept:**
+  - Employees covering significant distances on foot in large campuses.
+  - The need for a solution to enhance efficiency and reduce physical strain on employees.
+  - Utilization of additive manufacturing technology, specifically 3D printing, for creating a innovative solution.
+
+- **Key Features of the Personal Mover Concept:**
+  - Dimensions: 60 cm wide and 80 cm long, providing space for long or heavy objects.
+  - Maximum speed of 25 km/h, with the ability to turn 90° on the spot to the left or right.
+  - Handlebar integrates the entire electrical system, battery, and drive wheel.
+  - Enhanced safety features, including a bell, brake, and dead man's control.
+
+- **Innovative Use of 3D Printing:**
+  - The handlebar stand of the Personal Mover Concept has been 3D-printed on the BigRep ONE.
+  - Richard Kamissek, Head of the Operations Central Aftersales Logistics Network, emphasizes the need for flexibility, agility, and suitability for carrying objects.
+
+- **Employee Perspectives and Future Implementation:**
+  - The Personal Mover Concept is designed to be flexible, easy to maneuver, electric, agile, and tilt-proof.
+  - Anticipation of integrating the Personal Mover Concept into daily operations as soon as possible.
+  - Recognition of the solution as not only efficient but also enjoyable to drive.
+
+- **3D Printing's Role in Advancing Mobility:**
+  - Reflection on the broader impact of 3D printing on mobility advancements in automotive, aerospace, and electric vehicle industries.
+  - Consideration of the limitless possibilities for transport innovation facilitated by large-scale 3D printing.
+  - The transformative potential of 3D printing in improving environmental impact, cost-efficiency, and creativity in various industries.
+
+- **Conclusion:**
+  - Acknowledgment of the smart project and anticipation for future developments in the 3D printing industry.
+  - Excitement about the potential applications of mobility tools in various settings beyond factories, such as airports, shopping malls, or warehouses.
+  - Recognition of 3D printing as an ideal technology for supporting mobility innovations and creating opportunities for different industries.
+
+Nikola Motors
+# Indsutry - Auto 
+App-Family - End use parts jigs and fixtures 
+Materials - 
+Printers Used - Pro
+- **Introduction:**
+  - Nikola Corporation's strategic investment in BigRep PRO, a large-format FFF additive manufacturing system, for sustainable heavy-duty trucking.
+  - Recognition of BigRep as a global leader in large-format additive manufacturing technology and solutions.
+
+- **Integration of Additive Manufacturing at Nikola:**
+  - Nikola's focus on developing innovative energy and transportation solutions for zero-emission vehicles.
+  - Utilization of BigRep PRO to streamline design and manufacturing processes for various vehicle components, drivetrains, and infrastructure.
+
+- **Key Features of BigRep PRO:**
+  - BigRep PRO's role in changing how industry leaders like Nikola approach additive manufacturing.
+  - Integration of 3D printing into design and manufacturing processes for process improvements and product design optimization.
+  - Features such as large-format build volume, third-party filament compatibility, and state-of-the-art Bosch-Rexroth CNC control systems.
+
+- **Applications of BigRep PRO at Nikola:**
+  - Continuous operation of BigRep PRO for printing parts and components, showcasing its large capacity, high resolution, and accuracy.
+  - Production of assembly, weld, and inspection fixtures with a high level of precision.
+  - Testing components for fit checks on Nikola's vehicles and manufacturing end-use parts.
+
+- **Benefits and Excitement at Nikola:**
+  - Anticipation of enhanced efficiency through the use of BigRep PRO.
+  - Acknowledgment of the PRO's flexibility and high-performance potential, especially in demanding industries like automotive.
+  - Recognition of BigRep's role in supporting cutting-edge AM applications in the automotive sector.
+
+- **BigRep PRO's Design and Technology:**
+  - Special design for 3D printing large-format and low-yield production parts in high-performance applications.
+  - Build envelope of almost one full cubic meter, equipped with Bosch Rexroth CNC motion control system for IoT connectivity.
+  - Offering two varieties of extruder options, Advanced Capability Extruder (ACE) and BigRep MXT(r), for speed and resolution balance.
+  - Airtight filament chamber for continuous printing with engineering-grade filaments.
+
+- **Conclusion:**
+  - Excitement about the collaboration between Nikola Corporation and BigRep, emphasizing the potential of additive manufacturing in the automotive industry.
+  - Recognition of BigRep PRO's unprecedented speed, precision, and reliability in contributing to the future of sustainable transportation.
+  - Anticipation of further developments and innovations in the field of large-format 3D printing.
+XEV 
+Indsutry - Auto 
+App-Family - End use parts, prototypes, jigs & fixtures  
+Materials - 
+Printers Used - Pro 
+- **Introduction:**
+  - Highlighting the role of BigRep PRO in transforming electric car customization in China.
+  - XEV's commitment to sustainable urban mobility and the integration of additive manufacturing for efficient car production.
+
+- **Traditional vs. Additive Manufacturing at XEV:**
+  - Description of traditional car production methods involving expensive and resource-intensive molds and tools.
+  - Integration of BigRep PRO to eliminate the need for limited and costly tooling, resulting in a flexible and efficient manufacturing process.
+  - Benefits of 3D printing, including fewer components, faster updates, reduced production cycles, and cost savings passed on to customers.
+
+- **Customization Business Model:**
+  - Emphasis on the key benefit of additive manufacturing: customization.
+  - XEV's focus on providing design surface customization for individual identity or corporate values.
+  - Standardized fixing method allowing easy modification of 3D-printed parts with less engineering work.
+  - XEV's innovative approach towards a customer-oriented manufacturing process.
+
+- **Two Layers of Customization at XEV:**
+  - First layer: Design surface customization representing individual or corporate identity.
+  - Second layer: More profound influence on the automotive industry, aiming to develop a modular upper body to fit various needs.
+  - Collaboration with key customers to develop customized versions of their cars.
+
+- **BigRep PRO's Role at XEV:**
+  - Better geometric precision and versatility of the PRO in trying different materials and processes.
+  - Faster development of customization possibilities and applications.
+  - Application team at XEV acting as a key intermediate connection between customers and the smart manufacturing center.
+
+- **Reasons for Choosing BigRep PRO:**
+  - Consideration of printer size, versatility, and open material system.
+  - Current applications include small volume test production, material testing (especially fiber reinforcement materials), and traditional applications like prototypes and fixtures.
+  - Ability to test different designs and geometries efficiently due to the size and openness of the BigRep PRO.
+
+- **Conclusion:**
+  - XEV's extensive search led to the selection of BigRep PRO as the right 3D printer to fulfill their mission in electric car customization.
+  - The PRO's size, versatility, and open material system played a crucial role in its suitability for XEV's applications.
+  - Anticipation of continued innovation for the future of customization in electric cars and a fast, customer-oriented experience with BigRep PRO.
+
+
+Zoeller
+Indsutry - Auto, special purpose vehicle 
+App-Family - End use part 
+Materials - 
+Printers Used - One, pro
+
+- **Introduction:**
+  - Overview of how the ZOELLER group utilizes 3D printing for fast product development in commercial vehicle manufacturing.
+  - Transition from traditional production methods to 3D printing for prototypes, design iterations, and production equipment.
+
+- **Challenges in Customer-Specific Vehicle Manufacturing:**
+  - ZOELLER's specialization in waste collection vehicles and lifter systems with global usage.
+  - The need for constant adaptation to meet customer demands, comply with safety regulations, and ensure high reliability.
+  - Lengthy development process for prototypes, often limited in complexity, precision, and material properties.
+
+- **Role of 3D Printing in Overcoming Challenges:**
+  - ZOELLER's decision to shift from traditional production to 3D printing for prototypes.
+  - Benefits of 3D printing in significantly reducing iteration cycles, enabling quick coordination among departments and customers.
+  - Accelerated development, incorporation of change requests, and testing of printed prototypes in real-world conditions.
+
+- **Expanded Options with 3D Printing:**
+  - Exploration of how 3D printing expands options in terms of geometry and materials.
+  - Inclusion of surfaces and structures not feasible with traditional processes.
+  - Utilization of a wide range of filaments for producing prototypes similar to final series parts in terms of appearance and material behavior.
+
+- **ZOELLER's Evolution with 3D Printing:**
+  - ZOELLER initially relied on external service providers for 3D printed parts.
+  - Acquisition of BigRep ONE in July 2019, followed by upgrading to tandem mode for faster production.
+  - Subsequent purchase of BigRep PRO for even faster and more precise 3D printing, with improved temperature management and material diversity.
+
+- **Experiences and Integration:**
+  - Quick familiarization of ZOELLER employees with 3D printing, smooth integration into existing production processes.
+  - BigRep PRO running for over 300 hours without issues, highlighting its well-designed nature.
+  - Positive experiences with BigRep customer service, satisfaction with the printers.
+
+- **Conclusion and Future Plans:**
+  - ZOELLER emphasizes 3D printing as an integral part of its development process.
+  - Anticipation of 3D printing playing a crucial role in the future of commercial vehicle manufacturing.
+  - Plans to extend 3D printing applications to end-use parts in small runs, showcasing its commitment to innovation and efficiency in manufacturing.
+
+Magirus
+Indsutry - Auto 
+App-Family - End Use Parts
+Materials - 
+Printers Used - One 
+
+- **Introduction:**
+  - Overview of how Magirus, a Germany-based fire engine manufacturer, employs large-format 3D printing for prototyping and end-use part production.
+  - Background on Magirus' mission to pioneer state-of-the-art firefighting vehicles for over 150 years.
+
+- **Adoption of 3D Printing at Magirus:**
+  - Magirus started using 3D printing in 2015 for prototyping and product development.
+  - Collaboration with external 3D printing service providers initially.
+  - Investment in an in-house 3D printer, the BigRep ONE, in 2018 to meet the increasing demand for large-scale prototypes.
+
+- **Role of 3D Printing in Prototyping:**
+  - Integration of 3D printing into Magirus' prototyping and product development workflows.
+  - Use of the BigRep ONE to 3D print functional prototypes, reducing prototyping costs and development lead times.
+  - Significantly faster part development and validation through 3D printing compared to traditional methods.
+
+- **Cost and Time Savings:**
+  - Reduction of prototyping costs from nearly a hundred-thousand euros to just thousands of euros.
+  - Acceleration of part development lead times from 3-6 months to a matter of days.
+  - Agile part development to meet the dynamic needs of firefighter clients.
+
+- **Exploration of Small-Series Production:**
+  - Magirus explores the use of 3D printing for small-series production.
+  - The first 3D printed end-use part, a window frame for a fire engine crew cab door, undergoes final validation.
+  - Testing and validation of the 3D printed window frame for rigidity, vibration, impact, and heat deflection temperature.
+
+- **Benefits of the BigRep ONE 3D Printer:**
+  - Description of the key features of the BigRep ONE 3D printer, including its large build volume (one cubic meter) and compatibility with various polymer filaments.
+  - Industrial capability of the BigRep ONE suitable for manufacturing large-scale prototypes and smaller components in a single batch.
+  - Adjustable settings, such as resolution, enabling rapid prototyping and high-quality end-use part production.
+
+- **Success and Future Potential:**
+  - Successful integration of 3D printing into Magirus' production workflow for prototyping and potential small-series production.
+  - Positive experiences with the BigRep ONE 3D printer, emphasizing its suitability for manufacturing parts for firefighting vehicles.
+  - Consideration of expanding the use of 3D printing for custom and low-volume parts in fire engine manufacturing.
+
+- **Conclusion:**
+  - Recognition of 3D printing technology as a key factor in Magirus' prototyping and production processes.
+  - Anticipation of increasing opportunities for custom and low-volume parts in fire engine manufacturing through 3D printing.
+  - Potential for continued innovation and efficiency improvements in the production of firefighting vehicles.
+
+
+WAT - Walther Automitve
+Indsutry - Auto 
+App-Family - Toolings, jigs and fixtures 
+Materials - 
+Printers Used - One 
+
+- **Overview:**
+  - Introduction to Walter Automobiltechnik (WAT), a Berlin-based automotive manufacturer utilizing 3D printing in automotive production tools for quality assurance.
+
+- **Integration of 3D Printing in Automotive Workflows:**
+  - Widely accepted strategy in the automotive industry for product development and prototyping to reduce costs and lead times.
+  - Highlighting WAT's adoption of 3D printing in later stages of industrial production, focusing on 3D printed production tools for serial production.
+
+- **WAT's Use of BigRep ONE 3D Printer:**
+  - WAT's implementation of custom 3D printed tools using the BigRep ONE industrial 3D printer.
+  - Application of these tools in quality assurance workflows, streamlining processes and reducing time spent on control lines.
+
+- **Impact on Workflows and Time Reduction:**
+  - Positive impact on workflows at WAT facilities by integrating 3D printed tools into quality assurance processes.
+  - Description of the semi-automation of quality assurance checks, leading to a significant reduction in order fulfillment time.
+
+- **Benefits of 3D Printed Production Tools:**
+  - Overview of how 3D printed tools, created with the BigRep ONE, reduce costs associated with traditional industrial tools.
+  - Comparison with traditional methods, emphasizing the cost-effectiveness and flexibility of 3D printing for creating custom jigs.
+
+- **Testimonial from WAT's Head of Engineering:**
+  - Quote from Martin Münch, WAT's head of engineering, emphasizing the role of 3D printing in reducing project cycle costs and meeting customer expectations.
+
+- **Custom Jigs and Cost Reduction:**
+  - Explanation of WAT's decision to 3D print jigs for control systems, avoiding significant costs associated with custom industrial tools.
+  - Mention of the ability to produce large components with the BigRep ONE, highlighting the cost-effectiveness and versatility of 3D printing.
+
+- **Versatility of BigRep ONE Beyond Primary Application:**
+  - Discussion of how WAT continues to derive value from the BigRep ONE beyond its primary application.
+  - Engineer André Lenz's role in designing and printing useful aids around the facility, showcasing the versatility of the 3D printer.
+
+- **WAT's Game-Changing Decision:**
+  - Recognition of WAT's decision to invest in the BigRep ONE as a game-changer.
+  - Summary of cost reduction, workflow improvement, and increased efficiency in essential manufacturing processes.
+
+- **Continued Development and Future Applications:**
+  - WAT's commitment to further development in additive manufacturing applications for more efficient automotive manufacturing processes.
+  - Anticipation of continued advancements and innovation in the use of 3D printing in the automotive industry.
+
+- **Conclusion:**
+  - Acknowledgment of 3D printing as a transformative technology for WAT in automotive production tools.
+  - Anticipation of ongoing developments and applications in the automotive industry through the integration of 3D printing technologies.
+Jigs & Fixtures General 
+**Summary: 3D Printed Jigs and Fixtures**
+
+**Introduction:**
+- Discussion on the significance of jigs, fixtures, and other production tools in manufacturing processes.
+- Introduction to the use of additive manufacturing, specifically 3D printing, for producing these tools.
+
+**What are Jigs & Fixtures?**
+- Definition and historical distinction between jigs and fixtures.
+- Contemporary understanding where the terms are often used interchangeably to refer to equipment aiding various manufacturing processes.
+
+**Requirements for Jigs & Fixtures:**
+- Overview of diverse requirements for jigs and fixtures in modern manufacturing processes.
+  - Accuracy, strength, durability, flexibility, availability, and cost-effectiveness.
+
+**Conventional Manufacturing of Jigs & Fixtures:**
+- Traditional methods involving metal and manufacturing processes like welding, CNC machining, drilling, and grinding.
+- Challenges such as weight, lead times, and potential impact on tool accuracy.
+
+**Advantages of 3D Printing for Jigs & Fixtures:**
+- Utilizing 3D printing to overcome challenges in conventional methods.
+- Characteristics of the perfect jig: strength, precision, cost-efficiency, adaptability, and fast production.
+- Examples of successful implementations in various industries.
+
+**User Stories:**
+1. **Walter Automobiltechnik (WAT):**
+   - 3D printed jigs for quality assurance, resulting in a 50% time-saving.
+   - Additional applications beyond quality assurance, showcasing versatility.
+
+2. **Vestas:**
+   - 3D printable fixtures for wind turbine blade assembly, reducing costs by 70%.
+   - Enhanced safety and ease in the assembly of wind turbines through 3D printed tools.
+
+3. **Ford:**
+   - Large-scale fixture for gap measurement between car body and door, 3D printed with BigRep ONE.
+   - Return on investment achieved after only three prints, highlighting cost-effectiveness.
+
+**Conclusion:**
+- Widespread applicability of large format 3D printing in various industries.
+- Role of 3D printing in fostering innovation, creativity, and reevaluation of traditional processes.
+- Invitation for further inquiries and exploration of 3D printing capabilities for interested businesses.
+
+**Contact Information:**
+- BigRep's contact details for those interested in learning more about large format 3D printing and additive manufacturing solutions.
+
+**Summary: The Role of Large-Format 3D Printing in Automotive Education and Innovation**
+
+- **Introduction:**
+  - Large-format 3D printing, a revolutionary facet of additive manufacturing, is reshaping automotive education and innovation.
+  - Universities and research institutions invest in large 3D printers to prepare automotive students for dynamic careers and enhance research capabilities in vehicle design and production.
+
+- **Benefits for Future-Ready Automotive Institutions:**
+  - Prominent automotive institutions emphasize the significance of large-format 3D printing for superior teaching, hands-on experimentation, and preparing students for the evolving automotive industry.
+  - The expansive build volume of large-format 3D printers caters specifically to the intricate needs of automotive design and prototyping.
+
+Educational Automotive Use Cases
+Indsutry - Auto 
+App-Family - Prototype, Mold, 3d printed car parts and forms 
+Materials - 
+Printers Used - One 
+
+- **Automotive University Initiatives:**
+  - Kingston University utilizes a BigRep ONE 3D printer for in-house prototyping, emphasizing the printer's ability to handle larger-scale projects vital in automotive design.
+  - TH Wildau's ViNN:Lab educates automotive engineering students and business students in the benefits of additive manufacturing, particularly for creating complex automotive parts.
+  - Helmut Schmidt University's Eleven-O-Six Racing Team leverages 3D printing for high-performance car production, creating bespoke bodywork prototypes for racing vehicles.
+  - Aalborg University's mechanical engineering students pioneer the 3D printing of fully functional bicycle frames, showcasing the technology's potential for lightweight and efficient vehicle components.
+
+- **Innovative Applications in Automotive Projects:**
+  - Kingston University innovates by creating molds for carbon fiber car parts, demonstrating the versatility and precision achievable with large-format 3D printing in automotive manufacturing.
+  - ViNN:Lab at TH Wildau explores novel uses of 3D printing, enabling students to create intricate automotive prototypes and components.
+  - Eleven-O-Six Racing Team experiments with 3D printing for nose cone prototypes and full-bodywork projects, streamlining the design and testing processes for racing cars.
+  - Aalborg University's students pioneer the creation of complete bicycle frames in a single 3D printed piece, setting the stage for advancements in lightweight vehicle construction.
+
+- **Advantages for Automotive Innovation:**
+  - Large-format 3D printing accelerates the production of automotive prototypes, facilitating rapid iterations and reducing lead times.
+  - Provides a practical and cost-effective manufacturing method, essential for automotive design projects.
+  - Fosters innovation by enabling students to bring complex automotive designs to life, addressing the unique challenges of the automotive industry.
+
+- **Conclusion:**
+  - Large-format 3D printing, exemplified by the BigRep ONE, is a transformative tool in automotive education and research, empowering students to revolutionize vehicle design and manufacturing processes.
+

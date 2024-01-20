@@ -1,0 +1,186 @@
+J.C Steele
+Indsutry - Metal Casting 
+App-Family - Sand casting 3d print Patterns, Molds, Sandcasting
+Materials - 
+Printers Used - One 
+
+**Title: Revolutionizing Industrial Machinery Production: JC Steele's 3D Printing Success with BigRep**
+
+**Introduction:**
+In the realm of industrial machinery manufacturing, the age-old process of sand casting has undergone a transformative evolution through the integration of large-format additive manufacturing. This case study explores how JC Steele & Sons, a venerable 130-year-old company, harnessed the power of BigRep's 3D printers to achieve a remarkable 75% cost reduction and a 50% increase in annual production.
+
+**Challenges in Industrial Machinery Manufacturing:**
+1. **Complex Production Processes:** Crafting massive machinery components demands demanding production methods.
+2. **In-House Approach:** Outsourcing is impractical, prompting the shift towards in-house production.
+3. **Time and Cost Constraints:** Melting raw metal is time-consuming, expensive, and leaves no room for errors.
+
+**The Role of Sand Casting:**
+1. Proprietary foundries, including sand casting, play a vital role in creating robust components.
+2. Traditional sand casting involves crafting positive patterns, a labor-intensive process.
+
+**Adopting Large-Format Additive Manufacturing:**
+1. **Introduction of Additive Manufacturing:** JC Steele embraces large-format additive manufacturing for pattern creation.
+2. **Benefits of BigRep ONE:** The need for a substantial build volume leads JC Steele to invest in the BigRep ONE.
+   - **Versatility:** Capable of producing parts ranging from handheld to larger-than-car sizes.
+   - **Time Efficiency:** Large batches of smaller parts produced more quickly compared to other printers.
+
+**Success Metrics:**
+1. **Cost Reduction:** Implementation of additive manufacturing results in a 75% reduction in expenses.
+2. **Increased Production:** Annual production surges by 50% due to streamlined workflows.
+
+**Streamlining Pattern Creation:**
+1. **Traditional vs. Additive Workflow:** Additive manufacturing reduces the complex pattern creation process to four streamlined steps.
+2. **Environmental Impact:** Eco-friendly materials like PETG are employed, minimizing waste without compromising strength.
+3. **Pattern Finishing:** Traditional techniques are applied to 3D-printed patterns, ensuring fine finishes for flawless sand casting.
+
+**Testing and Reiterations:**
+1. **Flexibility in Design:** Additive manufacturing allows for rapid redesign and reprinting, enhancing the testing phase.
+2. **Iterative Testing:** Multiple designs of complex parts are printed and tested for optimal solutions before full-scale production.
+
+**Archiving and Recreating Old Patterns:**
+1. **Digital Archiving:** Utilizing 3D scanning, JC Steele archives old patterns, facilitating accurate recreation.
+2. **Obsolete Parts Production:** Unavailable parts are 3D printed in-house, eliminating dependence on external suppliers.
+
+**Enhancing Worker Safety:**
+1. **Customized Safety Solutions:** Additive manufacturing aids in creating custom guards and safety solutions for heavy equipment.
+2. **Accessibility:** In-house 3D printing enables rapid production of safety components, contributing to worker protection.
+
+**Employee Adoption and Operational Integration:**
+1. **Employee Buy-In:** Overcoming initial resistance, employees embrace additive manufacturing's advantages.
+2. **Reliability of BigRep ONE:** The German-engineered BigRep ONE runs continuously, providing consistent results.
+
+**Conclusion:**
+JC Steele's adoption of large-format additive manufacturing with BigRep has not only revolutionized their sand casting processes but has also ushered in unprecedented efficiencies. The success story showcases the profound impact of 3D printing in reducing costs, accelerating production, and fostering innovation in the industrial machinery sector. As the demand for large-format additive manufacturing grows, businesses are urged to consider it an indispensable technology for sustainable growth and competitiveness.
+
+Australian Bell 
+Industry - Sandcasting
+App-Family - Molds
+Materials - TPU
+Printers - One
+
+**Title: Advancing Bellfounding: The Harmonious Union of FEA Software and Large-Format 3D Printing**
+
+**Introduction:**
+The traditional art of bellfounding, deeply rooted in history, is undergoing a profound transformation through the marriage of Finite Element Analysis (FEA) software and large-format 3D printing. This case study delves into the innovative approach of Australian Bell, led by Dr. Anton Hasell, as they harness cutting-edge technologies to redefine the design, production, and soundscape of bells.
+
+**Foundations of Bellfounding:**
+1. **Time-Honored Craft:** Bellfounding, dating back to 2,000 BC, involves meticulous processes of moldmaking, casting, and finishing.
+2. **Traditional Mold Creation:** Bell molds traditionally crafted using handmade techniques, involving strickles or false bell patterns.
+
+**Technological Evolution in Bell Design:**
+1. **FEA Software Integration:** Australian Bell pioneers the use of Finite Element Analysis (FEA) software to optimize bell designs.
+   - **Achieving New Frequencies:** FEA enables the exploration of new frequencies and sound profiles.
+   - **Harmonic Bells:** The world's first harmonic bell, designed using ReShape FEA software, exemplifies clarity in pitch.
+
+**3D Printing Redefines Bell Manufacturing:**
+1. **Long Now Foundation Project (2014):** Australian Bell employs 3D printing for a difference-tone bell, commissioned for the 10,000 Year Clock.
+   - **Optimizing Designs:** Dr. Hasell utilizes the BigRep ONE 3D printer for creating precise foundry patterns.
+   - **Streamlined Production:** 3D printing eliminates labor-intensive manual pattern-making, transitioning from digital design to physical patterns.
+
+**Collaborative 3D Printing Endeavors:**
+1. **Freedspace Collaboration (Recent Project):** Australian Bell partners with Freedspace to 3D print a pattern for a 300 kg European-style bell.
+   - **BigRep ONE's Role:** The one-cubic-meter build volume of the BigRep ONE proves essential for large-scale bell production.
+
+**Benefits of Large-Scale 3D Printing for Bell Casting:**
+1. **Complex Bell Geometries:** FEA software facilitates intricate bell designs to achieve unprecedented sound frequencies.
+2. **Life-Size Patterns:** Large-format 3D printing breathes life into digital designs, creating patterns for sandcasting and molding.
+3. **Preserving Craftsmanship:** Traditional casting ensures high-quality standards while embracing technological advancements.
+
+**Australian Bell's Mission for Contemporary Urban Designs:**
+1. **Transitioning Communal Uses:** Innovations aim to introduce new bell sounds for modern communities and urban designs.
+2. **Federation Bell Carillon:** A public installation in Melbourne featuring 39 bells, allowing global compositions to be played through an interactive app.
+
+**The Broader Implications of 3D Printing in Traditional Manufacturing:**
+1. **Supplementing Traditional Processes:** Large-scale 3D printing enhances molding and casting processes in foundries.
+2. **Reduced Production Times:** Direct 3D printing of patterns based on digital models minimizes labor-intensive steps, optimizing efficiency.
+3. **Cost-Effectiveness:** 3D printed patterns reduce costs and production times compared to manual pattern-making.
+
+**Conclusion:**
+Australian Bell's forward-looking approach exemplifies the harmonious integration of tradition and technology in bellfounding. By embracing FEA software and large-format 3D printing, the company not only unlocks new sonic possibilities but also streamlines the production process. This use case stands as a testament to the transformative impact of 3D printing on traditional manufacturing, offering a glimpse into a future where craftsmanship and innovation converge seamlessly.
+
+Kennedy Valve 
+Industry - sand Casting 
+App-Family - 3d patterns and tooling
+Materials - 
+Printers - 
+
+- **Title: Revolutionizing Foundry Workflows: Kennedy Valve's Journey with BigRep Industrial 3D Printing**
+- 
+- **Introduction:**
+- This case study explores how Kennedy Valve, a renowned waterworks manufacturer, revitalized its manufacturing processes by integrating large-format 3D printing from BigRep. By modernizing their in-house patternmaking for sand casting applications, Kennedy Valve achieved remarkable cost savings and efficiency gains, making their workflow more agile and cost-effective.
+- 
+- **Challenges Faced by Kennedy Valve:**
+- 1. **Aging Workflow:** Kennedy Valve operated with an outdated workflow for sand casting applications.
+- 2. **External Patternmaking:** The company relied on an external supply strategy for pattern development, resulting in increased costs.
+- 
+- **The BigRep Solution:**
+- 1. **Investment in BigRep ONE:** Kennedy Valve adopted the BigRep ONE, a one-cubic-meter large-format industrial 3D printer.
+-    - **Build Volume Advantage:** The massive build volume ensured flexibility and accommodated the size of Kennedy Valve's large products.
+-    - **Reliability:** Trust in German engineering and the reliability of the BigRep ONE.
+- 
+- **Achievements and Cost Savings:**
+- 1. **Reduced Expenses:** Kennedy Valve significantly cut sand casting pattern and tooling expenses by $13,000 USD for one part.
+-    - **Quick Return on Investment:** The BigRep ONE paid for itself after just five prints, demonstrating rapid cost recouping.
+-    - **22% Cost Reduction:** Modernizing the sand casting process resulted in a 22% reduction in expenses, totaling $13,000 USD.
+- 
+- **Enhancing Sand Casting Workflow:**
+- 1. **In-House Patternmaking:** BigRep's 3D printing facilitated the revival of in-house patternmaking for sand casting.
+-    - **Pattern Perfection:** 3D printing allowed for the creation of perfect, one-piece patterns, eliminating traditional challenges.
+-    - **Streamlined Process:** Reduced lead times and costs by eliminating the need for manual pattern-making by highly skilled artisans.
+- 
+- **Prototyping and Showpieces:**
+- 1. **In-House Prototyping:** Kennedy Valve now produces prototypes in-house, eliminating lead times and maintaining production control.
+-    - **Cost-Effective Development:** Rapid prototyping enables cost-effective development and real-world assessments of products.
+-    - **Showpiece Creation:** 3D-printed prototypes serve as lightweight, show-quality models for marketing and tradeshows.
+- 
+- **Marketing and PR Opportunities:**
+- 1. **Unique Marketing Possibilities:** In-house production of showpieces allows Kennedy Valve to showcase products easily and affordably.
+-    - **Portable Replicas:** Lightweight 3D-printed replicas serve as easily transportable showpieces, overcoming challenges of showcasing heavy iron products.
+- 
+- **Future Prospects and Industry Trends:**
+- 1. **Automation Trend:** Kennedy Valve embraces the trend of automated processes in manufacturing for increased efficiency.
+-    - **Strategic Investment:** BigRep's industrial 3D printing aligns with Kennedy Valve's strategy to modernize workflows and stay competitive.
+- 
+- **Conclusion:**
+- Kennedy Valve's partnership with BigRep, marked by the integration of large-format 3D printing, stands as a testament to the transformative impact of advanced manufacturing technologies. By revitalizing their in-house patternmaking for sand casting, Kennedy Valve not only achieved significant cost savings but also gained agility and control over their production processes. This case exemplifies how forward-thinking companies can leverage innovative solutions to stay at the forefront of industry trends, ultimately shaping the future of manufacturing.
+
+Metso Outotec
+**Title: Revolutionizing Metal Casting with BigRep 3D Printing: Metso Outotec's 70% Cost Savings Journey**
+Industry - Mining 
+Apps - Molds, jigs fixtures and casting
+App-Family - Jigs and fixtures
+Materials - Hi-Temp CF, PLX
+Printers -Pro
+
+**Introduction:**
+This case study delves into the transformative journey of Metso Outotec, a global leader in mineral processing and metal refining industries, leveraging large-format 3D printing from BigRep to revolutionize its metal casting processes. By replacing traditional CNC milling with additive manufacturing, Metso Outotec achieved substantial cost savings, faster production cycles, and enhanced flexibility in mold creation.
+
+**Challenges in Traditional Metal Casting:**
+1. **Labor-Intensive Process:** Traditional metal casting involved labor-intensive and time-consuming processes, particularly in pattern and mold production.
+2. **Wooden Molds:** Metso Outotec relied on assembling wooden molds through CNC milling, leading to sourcing, storage, and handling challenges.
+3. **Long Lead Times:** CNC milling required considerable time, involving gluing wooden blanks together and waiting for the glue to dry.
+
+**Adoption of BigRep 3D Printing:**
+1. **BigRep 3D Printers Implementation:** Metso Outotec adopted BigRep's large-format 3D printers, including the BigRep ONE in the Czech Republic and the BigRep PRO in Brazil.
+2. **Transition from Wood to 3D Printing:** Wooden molds were replaced by 3D printed molds, specifically designed add-on parts attached to base bodies for increased flexibility.
+3. **CNC Machining and 3D Printing Integration:** A hybrid approach was adopted, combining CNC machining for large base bodies with 3D printing for loose parts and intricate structures.
+
+**Advantages of 3D Printing in Metal Casting:**
+1. **Accelerated Production:** The 3D printing process enabled a much faster production cycle, working in three shifts and providing parts within a day.
+2. **Shorter Iteration Cycles:** Faster production facilitated shorter iteration cycles, allowing quick alterations to casting molds and core boxes.
+3. **Lighter and More Flexible Parts:** 3D printed parts were lighter, simplifying handling and storage, with the ability to use different materials for varied stress resistance.
+4. **Material Optimization:** BigRep's slicing software, BLADE, allowed for material optimization, adjusting infill in specific areas for structural strength and weight reduction.
+
+**Results and Cost Savings:**
+1. **Machine Efficiency:** Metso Outotec achieved an impressive 80% machine efficiency within three months of implementing BigRep PRO.
+2. **Surface Quality:** Larger nozzles and increased layer thickness maintained high surface quality, reducing post-processing requirements.
+3. **Cost Reductions:** After seven months, cost evaluations showed reductions ranging from 55% to 70%, depending on the part, in comparison to traditional processes.
+
+**Creativity Sparked and Future Opportunities:**
+1. **Expanded Applications:** Positive experiences with BigRep's printers sparked creativity, leading to considerations for other applications such as jigs, fixtures, and spare parts.
+2. **Importance of Accuracy:** The accuracy and suitability of materials opened up diverse possibilities, including addressing spare part needs for older equipment.
+
+**Conclusion:**
+Metso Outotec's adoption of BigRep's 3D printing technology not only revolutionized its metal casting processes but also resulted in significant cost savings, enhanced production speed, and newfound flexibility in mold creation. The success of this transition highlights the potential of large-format 3D printing to reshape traditional manufacturing practices, offering cost-effective and efficient solutions for industries engaged in metal casting and beyond.
+
+
